@@ -1,4 +1,4 @@
 # codealpha_tasks-
-Basic Network Sniffer
-Phishing Awareness Training
-Network Intrusion Detection System
+1. Basic Network Sniffer
+2. Phishing Awareness Training
+3. Network Intrusion Detection System
